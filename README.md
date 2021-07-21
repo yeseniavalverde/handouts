@@ -30,5 +30,5 @@ to this "handouts" folder. The result should be a subdirectory called
 
 ## Collaborators
 
-- Yesenia Valverde
+- Yesenia Valverde (UC Berkeley)
 - Yi Wang
